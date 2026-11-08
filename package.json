@@ -1,0 +1,10 @@
+{
+  "name": "discord-games-bot",
+  "version": "3.0.0",
+  "description": "Advanced Modern Discord Games Bot with Canvas Images",
+  "main": "bot.js",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1"
+  }
+}
